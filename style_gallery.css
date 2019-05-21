@@ -1,0 +1,11 @@
+.carousel-item img{
+    width: 396px !important;
+    height: 396px;
+    
+}
+
+.carousel-inner{
+    text-align: -webkit-center;
+    background-color: grey;
+}
+
